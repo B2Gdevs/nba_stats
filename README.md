@@ -18,3 +18,20 @@ python main_nba.py
 
 and it will start up the main menu. It uses an old style of menu that one would fine in a classroom made by students just learning.
 This was made this was due to time constraints.
+
+### Retraining
+
+To retrain a model look at the training.py file.  The file will search for the
+data.csv file within the data folder.  Replace that with data that is similar
+and adjust the parsing and training accordingly.  The documentation in the
+training.py file should be enough to help you create a different model.  However,
+if you do create a new model with different columns that will likely cause the application
+to fail and a partial rewrite of the application will be necessary.
+
+## Disclaimer
+This program has an 85% accuracy based on data gathered since 2012. While it is
+good, there is always a chance it might not model current teams well!
+
+Also this application was not built for reuse and is basically a one use only. 
+There were and are no plans to make this application do more than what it is able to do now.
+Therefore, the code is not a modular.
