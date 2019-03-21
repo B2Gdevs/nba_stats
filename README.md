@@ -20,7 +20,7 @@ and it will start up the main menu. It uses an old style of menu that one would 
 This was made this was due to time constraints.
 
 ##### Main Menu
-![Image of Main Menu](https://github.com/B2Gdevs/nba_stats/blob/master/main_nba.py)
+![Image of Main Menu](https://github.com/B2Gdevs/nba_stats/blob/master/main_menu.PNG)
 
 ### Retraining
 
