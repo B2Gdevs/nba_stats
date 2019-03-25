@@ -19,6 +19,9 @@ python main_nba.py
 and it will start up the main menu. It uses an old style of menu that one would fine in a classroom made by students just learning.
 This was made this was due to time constraints.
 
+##### Main Menu
+![Image of Main Menu](https://github.com/B2Gdevs/nba_stats/blob/master/main_menu.PNG)
+
 ### Retraining
 
 To retrain a model look at the training.py file.  The file will search for the
@@ -35,3 +38,4 @@ good, there is always a chance it might not model current teams well!
 Also this application was not built for reuse and is basically a one use only. 
 There were and are no plans to make this application do more than what it is able to do now.
 Therefore, the code is not a modular.
+
