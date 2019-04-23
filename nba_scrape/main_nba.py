@@ -7,7 +7,7 @@ This file is the main application where the user will interact with the console
 """
 
 import nba_methods
-from pyfiglet import Figlet
+# from pyfiglet import Figlet
 
 def pick_a_team():
 
@@ -97,8 +97,9 @@ def main():
     opposing_team = None
     quarter = None
 
-    figlet = Figlet(font="big")
-    print(figlet.renderText("HECTOR'S NBA QUARTER PREDICTION ENGINE"))
+    # figlet = Figlet(font="big")
+    # print(figlet.renderText("HECTOR'S NBA QUARTER PREDICTION ENGINE"))
+    print("HECTOR'S NBA QUARTER PREDICTION ENGINE")
 
     print("This engine predicts if your team will be under 20 points in a give quarter.\n"\
           "All that is needed for this is what team you want to know about\n"
@@ -148,5 +149,5 @@ def main():
 
 
 
-if __name__ == '__main__':
+if __name__.endswith('__main__'):
     main()
