@@ -1,2 +1,3 @@
 *.pyc
 nba_scrape/nba_project
+nba_scrape/__pycache__
